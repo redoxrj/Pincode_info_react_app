@@ -1,3 +1,7 @@
+# live-link : https://pincode-leadschool.vercel.app/  <br/>
+# Preview : 
+![Screenshot (128)](https://github.com/redoxrj/Pincode_info_react_app/assets/140983045/35cd3ea3-6eb4-4641-9271-1220c3c8a6f6)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
