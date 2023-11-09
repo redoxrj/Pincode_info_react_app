@@ -4,6 +4,12 @@
     }
     
 }
+@media screen  and (max-width: 940px) {
+    .details{
+        width: 80%;
+    }
+    
+}
 @media screen  and (max-width: 764px) {
     html{
         font-size: 0.8rem;
@@ -28,6 +34,12 @@
     .box{
         display: flex;
         flex-direction: column;
+    }
+    
+}
+@media screen  and (max-width: 415px) {
+    .details{
+        width: 90%;
     }
     
 }

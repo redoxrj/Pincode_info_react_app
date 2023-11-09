@@ -2,6 +2,10 @@ import React from 'react'
 
 const Search = ({setPincode,setQuery,query,pincode,setLoading}) => {
     const submitHandler = (e) =>{
+      if(pincode===query){
+        e.preventDefault();
+        return
+      }
         e.preventDefault()
         setQuery(pincode)
         setLoading(true)
